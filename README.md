@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there,
+
+My name is Charles Sal. I have developed some things in the last year and I definitely like to solve problems :scream:!
+
 
 <!--
 **cbsalt/cbsalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
