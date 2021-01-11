@@ -1,6 +1,6 @@
 ### Hi there,
 
-My name is Charles Sal. I have developed some things in the last year and I definitely like to solve problems :scream:!
+My name is Charles Sal. I have developed some things in the last year and I definitely like to solve problems :scream: !
 
 
 <!--
