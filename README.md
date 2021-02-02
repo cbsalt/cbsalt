@@ -9,9 +9,9 @@ My name is Charles Sal. I have developed some things in the last year and I defi
 </p>
    
 ## 🧰 Languages and Tools:
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cbsalt&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbsalt&theme=dracula&hide=TSQL)
+
+<p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=cbsalt&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /></p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
