@@ -4,8 +4,8 @@ My name is Charles Sal. I have developed some things and I definitely like to so
 
 ## 🔎 Find me on:
 
-<p align="center">
-<a href="https://linkedin.com/in/charles-sal" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" backgroundcolor="#7159c1" alt="linkedin" height="40" style="vertical-align:top; margin:4px"></a>
+<p>
+<a href="https://linkedin.com/in/charles-sal" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="40" style="vertical-align:top; margin:4px;"></a>
 </p>
    
 ## 🧰 Languages and Tools:
