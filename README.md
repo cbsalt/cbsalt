@@ -2,7 +2,7 @@
 
 My name is Charles Sal. I have developed some things and I definitely like to solve problems 🤓 !
 
-🔭 I’m currently working on Cely - influence for everyone
+- 🔬 I’m currently working on Cely - influence for everyone
 
 ## 🔎 Find me on:
 
