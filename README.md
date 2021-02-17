@@ -2,8 +2,6 @@
 
 My name is Charles Sal. I have developed some things and I definitely like to solve problems 🤓 ! I've been working as Developer since 2019 (I learned C# in 2007 but it didn't match 😅). Now, I'm work as a Front End Engineer at Cely - influence for everyone.
 
-- 🔬 I’m currently working on Cely - influence for everyone
-
 Would you like to find me? 🔎
 <p>
 <a href="https://linkedin.com/in/charles-sal" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="24" style="vertical-align:top; margin:4px;"></a>
