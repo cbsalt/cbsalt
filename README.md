@@ -1,6 +1,6 @@
 ### Hello there!
 
-My name is Charles Sal. I have developed some things and I definitely like to solve problems 🤓 ! I've been working as Developer since 2019 (I learned C# in 2007 but it didn't match 😅). Now, I'm work as a Front End Engineer at Cely - influence for everyone.
+My name is Charles Sal. I have developed some things and I definitely like to solve problems 🤓 ! I've been working as Developer since 2019 (I learned C# in 2007 but it didn't match 😅). Now, I'm work as a Front End Engineer.
 
 Would you like to find me? 🔎
 <p>
