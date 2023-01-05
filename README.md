@@ -6,6 +6,8 @@ Would you like to find me? 🔎
 <p>
 <a href="https://linkedin.com/in/charles-sal" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="24" style="vertical-align:top; margin:4px;"></a>
 </p>
+
+<i>"The next time you write a line of code, remember you are an author, writing for readers who will judge your effort."</i>
    
 ## Languages and Tools 🧰
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbsalt&theme=dracula&hide=TSQL)
